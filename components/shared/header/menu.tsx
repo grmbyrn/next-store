@@ -44,7 +44,6 @@ const Menu = () => {
             </nav>
         </div>
     )
-
 }
  
 export default Menu;
